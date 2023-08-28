@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: How I Met My Guild
+  subtitle: Spectacle humoristique de 30 minutes dans un univers de fantasy
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
