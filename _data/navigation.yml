@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Catalogue"
       section: portfolio
-    - title: "Prestations"
+    - title: "Agenda"
       section: timeline
     - title: "Membres"
       section: team
