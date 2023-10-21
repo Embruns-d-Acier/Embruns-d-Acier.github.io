@@ -18,4 +18,4 @@ Une pour toutes est l’adaptation théâtrale d’une œuvre jeunesse écrite p
 - Durée : 45 minutes
 - Tarif : à partir de 385€
 
-Vous voulez les détails ? Voici [notre dossier de diffusion]() !
+Vous voulez les détails ? Voici [notre dossier de diffusion](assets/pdf/dossier_diff_upt.pdf) !

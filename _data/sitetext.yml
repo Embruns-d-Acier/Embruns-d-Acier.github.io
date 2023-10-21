@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Prestations"
-    text: ""
+    text: "Vous en voulez plus ? Contactez-nous !"
     section: services
     list:
       - title: "Catalogue de spectacles"
@@ -158,7 +158,7 @@ en: &DEFAULT_EN
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
       - name: "Damien"
-        role: ""
+        role: "Ninja du clan de l'orange pressée, il ne passe jamais à côté d'une bonne tranche de rigolade."
         image: https://placehold.co/300x300?text=Damien
 
   contact:

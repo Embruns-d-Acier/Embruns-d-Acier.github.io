@@ -19,9 +19,9 @@ La troupe Embruns d’acier propose de vous raconter celle des Petits Salés. Au
 
 
 {:.list-inline} 
-- Jouable en intérieur comme en extérieur
+- Préférablement en extérieur
 - Thème : fantasy humoristique
 - Durée : 30 minutes
 - Tarif : à partir de 210€
 
-Vous voulez les détails ? Voici [notre dossier de diffusion]() !
+Vous voulez les détails ? Voici [notre dossier de diffusion](assets/pdf/dossier_diff_him.pdf) !
