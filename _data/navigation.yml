@@ -11,12 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Association"
+    - title: "Troupe"
+      section: about
+    # - title: "Témoignages"
+      # section: clients
+    - title: "Prestations"
       section: services
     - title: "Catalogue"
       section: portfolio
-    # - title: "L’association"
-      # section: about
     - title: "Prestations"
       section: timeline
     - title: "Membres"

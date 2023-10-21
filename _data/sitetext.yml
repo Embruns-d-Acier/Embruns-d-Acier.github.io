@@ -11,126 +11,155 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Association rennaise d’escrime artistique
+    title: Troupe amatrice d’escrime de spectacle
     text: Embruns d’Acier
-    button: Découvrir
-    buttonlink: "#services"
+    button: sur instagram
+    buttonlink: "https://www.instagram.com/embrunsdacier"
 
   services:
-    title: "Services"
+    title: "Prestations"
     text: ""
     section: services
     list:
-      - title: "Spectacle"
-        desc: "Une histoire entremêlée de combats…"
-        icon: fas fa-swords #find more at https://fontawesome.com/icons
-      - title: "Initiation"
-        desc: "Initiez-vous au maniement de la canne avec nos éducateurs certifiées Fédération Française d’Escrime"
-        icon: fas fa-staff
+      - title: "Catalogue de spectacles"
+        desc: "Des histoires entremêlées de combats…"
+        icon: fas fa-scroll
+      - title: "Création sur mesure"
+        desc: "Adaptation d’une œuvre ou d’un mythe pour votre évènement"
+        icon: fas fa-dragon
       - title: "Déambulation"
         desc: "Des personnages hauts en couleur qui interagissent avec le public"
-        icon: fa-regular fa-helmet-battle
+        icon: fas fa-shoe-prints
 
   portfolio:
     title: "Catalogue"
-    text: ""
+    text: "Nos spectacles déjà écrits, prêt à être joués !"
     section: portfolio
     closebutton: "Fermer"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Quand nous voir jouer ?"
+    text: "Dates des prestations passées et futures"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Festival Sirennes"
-        year: "Avril 2024"
-        desc: "Embruns d’Acier vous propose un spectacle interactif, une **adaptation de l’œuvre de Jean-Laurent Del Socorro _Une pour toutes_**, fresque épique et tourmentée autour de la vie de Julie d’Aubigny, dite la Maupin, et de son comparse damné, Méphistophélès."
-        image: assets/img/timeline/1.jpg
-        alt:
+      # - title: "Festival Sirennes"
+      #   year: "Avril 2024"
+      #   desc: "Embruns d’Acier vous propose un spectacle interactif, une **adaptation de l’œuvre de Jean-Laurent Del Socorro _Une pour toutes_**, fresque épique et tourmentée autour de la vie de Julie d’Aubigny, dite la Maupin, et de son comparse damné, Méphistophélès."
+      #   image: assets/img/timeline/1.jpg
+      #   alt:
       - title: "Cité Universitaire Sévigné"
         year: "8 juin 2023"
-        desc: "Les guildes d'aventuriers, ces bandes de personnages pas toujours bien assortis qui arpentent des royaumes en quête de trésors cachés et de trolls à occire, ne se rencontrent pas toujours dans une taverne. Parfois, l’histoire est un peu plus compliquée… Occultiste, truand, prêtre, barde: voici quelques personnnages de la nouvelle guilde qu’Embruns d’Acier va vous présenter !"
-        image: assets/img/timeline/2.jpg
+        desc: "Représentation pour la Cité Universitaire Sévigné pour les remercier de mettre une salle de répétition à disposition d’Embruns d’Acier"
+        image: https://placehold.co/300x300?text=Cité U
         alt:
       - title: "L’Ouest Hurlant"
         year: "29 et 30 avril 2023"
         desc: "Les guildes d'aventuriers, ces bandes de personnages pas toujours bien assortis qui arpentent des royaumes en quête de trésors cachés et de trolls à occire, ne se rencontrent pas toujours dans une taverne. Parfois, l’histoire est un peu plus compliquée… Occultiste, truand, prêtre, barde: voici quelques personnnages de la nouvelle guilde qu’Embruns d’Acier va vous présenter !"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/oh23.jpg
         alt:
       - title: "Mariage (prestation privée)"
         year: "2022"
         desc: "Tout commence par une querelle peu commune : chacun des mariés prétend que son amour est le plus fort. Pour se départager dans cet inepte désaccord, ils ont organisé un tournoi et choisi leurs champions. Venus de tout le royaume, ceux-ci se livrent un assaut farouche en l'honneur des tourtereaux..."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/mariage.jpg
         alt: image alt text
       - title: "L’Ouest Hurlant"
         year: "30 avril - 1er mai 2022"
         desc: "À l’occasion du festival de l’imaginaire L’Ouest hurlant, les bretteurs d’Embruns d’acier ont présenté avec l’association Celldia **La Forteresse de la Renaissance**, un « spectacle dont vous êtes le héros » : au rythme des combats, le public votait pour les prochaines péripéties des protagonistes pour tenter de leur sauver la peau… et y parvenait parfois !"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/oh22.jpg
         alt:
-    # end: "Be Part <br> of Our <br> Story!"
+    # end: "Embruns <br> d’Acier <br> naît!"
 
   about:
     title: "Qui sommes-nous ?"
-    text: "Des nobles chevaliers aux habiles mousquetaires, des jedis d’une autre galaxie aux sorciers armés de dagues et de potions, l’escrime de spectacle fait tinter ses lames (… ou vibrer ses sabres laser) sur toutes les scènes et à travers toutes les époques. Jetez un œil à nos prestations !"
-    body: "Embruns d’acier est une association rennaise créée en 2022. Spectacles d’escrime artistique sur mesure, démonstrations, saynètes accompagnées de petites sessions d’initiation… Contactez-nous pour discuter d’un futur projet et recevoir un devis."
+    body: "Des nobles chevaliers aux guerrières brutales brandissant de lourdes épées, des habiles bretteuses des cours royales aux mages armés de dagues et de potions, nous faisons tinter nos lames sur toutes les scènes et à travers toutes les époques... et tous les univers. Passionnés d’histoire et de cultures de l’imaginaire, nous avons à cœur de proposer des récits captivants et divertissants, à la mesure des demandes des événements et des spectateur·rices (grand public, scolaires...) – ainsi que, bien évidemment, de nos envies. <br> <br> Embruns d’Acier est une troupe amatrice d’escrime artistique, discipline chorégraphique mettant en scène des combats inspirés par l’histoire ou la fiction. Nous cherchons à faire découvrir notre passion au fil de nos spectacles, animations et autres démonstrations. Si l’escrime est au cœur de nos créations, celles-ci sont enrichies de théâtre, d’acrobaties, de combat à mains nues, ainsi que d’autres disciplines du spectacle vivant pratiquées par nos membres."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Nos membres"
+    text: "Voici l’équipe qui fait vivre nos spectacles"
+    subtext:
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Antoine"
+        role: "<i>Éducateur FFE</i><br> Antoine, épée longuiste de coeur, il n’a jamais compris l’intérêt d’un combat sans roulade"
+        image: assets/img/team/antoine.jpg
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          - url: https://www.instagram.com/bavencoffa/
+            icon: fab fa-instagram
+      - name: "Marie"
+        role: "<i>Éducatrice FFE</i><br>  Bretteuse infatigable et inarrêtable ; seule la taille de sa bibliothèque dépasse celle de son amour pour les squats"
+        image: assets/img/team/marie.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+          - url: https://www.instagram.com/marie.kerg/
+            icon: fab fa-instagram
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "Manon"
+        role: "Elle possède quatre haches, et l’une finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
+        image: assets/img/team/manon.jpg
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "Pierre-François"
+        role: "Le plus occitan des escrimeurs picards, il a débarqué sur les côtes bretonnes et est bien décidé à y faire virevolter son sabre"
+        image: assets/img/team/pf.jpg
+      - name: "Florian"
+        role: "On le croise souvent un appareil photo dans une main, une épée dans l’autre"
+        image: assets/img/team/flo.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/florian.strzelecki/
+            icon: fab fa-instagram
+      - name: "Elsa"
+        role: "Ne vous fiez pas à son air tranquille, ou vous serez surpris par son estoc à l'épée médiévale…"
+        image: assets/img/team/dza.jpg
+        social:
+          - url: https://www.instagram.com/elsourson/
+            icon: fab fa-instagram
+      - name: "Morgan"
+        role: "Ne vous fiez pas à son laconisme : sous ses airs discrets et mystérieux se cache un être brûlant pour la castagne"
+        image: assets/img/team/mo.jpg
+      - name: "Natan"
+        role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
+        image: assets/img/team/natan.jpg
+      - name: "Damien"
+        role: ""
+        image: https://placehold.co/300x300?text=Damien
 
   contact:
     title: "Contactez-nous"
