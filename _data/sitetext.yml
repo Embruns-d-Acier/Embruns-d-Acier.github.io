@@ -73,6 +73,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Qui sommes-nous ?"
+    # text: ""
     body: "Des nobles chevaliers aux guerrières brutales brandissant de lourdes épées, des habiles bretteuses des cours royales aux mages armés de dagues et de potions, nous faisons tinter nos lames sur toutes les scènes et à travers toutes les époques... et tous les univers. Passionnés d’histoire et de cultures de l’imaginaire, nous avons à cœur de proposer des récits captivants et divertissants, à la mesure des demandes des événements et des spectateur·rices (grand public, scolaires...) – ainsi que, bien évidemment, de nos envies. <br> <br> Embruns d’Acier est une troupe amatrice d’escrime artistique, discipline chorégraphique mettant en scène des combats inspirés par l’histoire ou la fiction. Nous cherchons à faire découvrir notre passion au fil de nos spectacles, animations et autres démonstrations. Si l’escrime est au cœur de nos créations, celles-ci sont enrichies de théâtre, d’acrobaties, de combat à mains nues, ainsi que d’autres disciplines du spectacle vivant pratiquées par nos membres."
     section: about
 
@@ -96,12 +97,12 @@ en: &DEFAULT_EN
 
   team:
     title: "Nos membres"
-    text: "Voici l’équipe qui fait vivre nos spectacles"
-    subtext:
+    text: "L’équipe qui fait vivre nos spectacles"
+    # subtext: ""
     section: team
     people:
       - name: "Antoine"
-        role: "<i>Éducateur FFE</i><br> Antoine, épée longuiste de coeur, il n’a jamais compris l’intérêt d’un combat sans roulade"
+        role: "<i>Éducateur FFE</i><br> Épée longuiste de coeur, il n’a jamais compris l’intérêt d’un combat sans roulade"
         image: assets/img/team/antoine.jpg
         # social:
         #   - url: https://twitter.com
@@ -119,28 +120,14 @@ en: &DEFAULT_EN
         social:
           - url: https://www.instagram.com/marie.kerg/
             icon: fab fa-instagram
-        # social:
-        #   - url: https://twitter.com
-        #     icon: fab fa-twitter
-        #   - url: https://facebook.com
-        #     icon: fab fa-facebook-f
-        #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
       - name: "Manon"
         role: "Elle possède quatre haches, et l’une finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
         image: assets/img/team/manon.jpg
-        # social:
-        #   - url: https://twitter.com
-        #     icon: fab fa-twitter
-        #   - url: https://facebook.com
-        #     icon: fab fa-facebook-f
-        #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
       - name: "Pierre-François"
         role: "Le plus occitan des escrimeurs picards, il a débarqué sur les côtes bretonnes et est bien décidé à y faire virevolter son sabre"
         image: assets/img/team/pf.jpg
       - name: "Florian"
-        role: "On le croise souvent un appareil photo dans une main, une épée dans l’autre"
+        role: "<i>Éducateur FFE</i><br> On le croise souvent un appareil photo dans une main, une épée dans l’autre"
         image: assets/img/team/flo.jpg
         social:
           - url: https://www.instagram.com/florian.strzelecki/
@@ -179,10 +166,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://www.facebook.com/people/Embruns-dAcier/100085448482527/
-        icon: "fab fa-facebook-f"
       - url: https://www.instagram.com/embrunsdacier
         icon: "fab fa-instagram"
+      - url: https://www.facebook.com/people/Embruns-dAcier/100085448482527/
+        icon: "fab fa-facebook-f"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
