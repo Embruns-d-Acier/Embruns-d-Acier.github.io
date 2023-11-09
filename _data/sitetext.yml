@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/oh23.jpg
         alt:
       - title: "Mariage (prestation privée)"
-        year: "2022"
+        year: "Été 2022"
         desc: "Tout commence par une querelle peu commune : chacun des mariés prétend que son amour est le plus fort. Pour se départager dans cet inepte désaccord, ils ont organisé un tournoi et choisi leurs champions. Venus de tout le royaume, ceux-ci se livrent un assaut farouche en l'honneur des tourtereaux..."
         image: assets/img/timeline/mariage.jpg
         alt: image alt text
