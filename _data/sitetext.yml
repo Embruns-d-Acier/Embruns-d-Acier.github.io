@@ -125,7 +125,6 @@ en: &DEFAULT_EN
         image: assets/img/team/manon.jpg
       - name: "Pierre-François"
         role: "Entre sa rapière et sa flûte, personne n’est sûr de quelle arme est la plus mortelle"
-        role: "Le plus occitan des escrimeurs picards, il a débarqué sur les côtes bretonnes et est bien décidé à y faire virevolter son sabre"
         image: assets/img/team/pf.jpg
       - name: "Florian"
         role: "<i>Éducateur FFE</i><br> On le croise souvent un appareil photo dans une main, une épée dans l’autre"
