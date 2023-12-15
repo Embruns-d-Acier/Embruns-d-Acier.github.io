@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Des histoires entremêlées de combats…"
         icon: fas fa-scroll
       - title: "Création sur mesure"
-        desc: "Adaptation d’une œuvre ou d’un mythe pour votre évènement"
+        desc: "Création d’un spectacle inédit pour votre évènement"
         icon: fas fa-dragon
       - title: "Déambulation"
         desc: "Des personnages hauts en couleur qui interagissent avec le public"
@@ -124,6 +124,7 @@ en: &DEFAULT_EN
         role: "Elle possède quatre haches, et l’une finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
         image: assets/img/team/manon.jpg
       - name: "Pierre-François"
+        role: "Entre sa rapière et sa flûte, personne n’est sûr de quelle arme est la plus mortelle"
         role: "Le plus occitan des escrimeurs picards, il a débarqué sur les côtes bretonnes et est bien décidé à y faire virevolter son sabre"
         image: assets/img/team/pf.jpg
       - name: "Florian"
@@ -139,14 +140,14 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/elsourson/
             icon: fab fa-instagram
       - name: "Morgan"
-        role: "Ne vous fiez pas à son laconisme : sous ses airs discrets et mystérieux se cache un être brûlant pour la castagne"
+        role: "Sous son laconisme et ses airs mystérieux se cache un être brûlant pour la castagne"
         image: assets/img/team/mo.jpg
       - name: "Natan"
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
       - name: "Damien"
         role: "Ninja du clan de l'orange pressée, il ne passe jamais à côté d'une bonne tranche de rigolade."
-        image: https://placehold.co/300x300?text=Damien
+        image: assets/img/team/damien.jpg
 
   contact:
     title: "Contactez-nous"
