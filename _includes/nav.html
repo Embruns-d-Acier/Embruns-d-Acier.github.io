@@ -6,10 +6,10 @@
 >
   <div class="container">
     <a class="navbar-brand js-scroll-trigger" href="{{ site.baseurl }}/#">
-      {%- if site.logo -%}
+      {%- if site.logo_blanc -%}
       <img
-        height="{{ site.logo.height | default: 52 }}"
-        src="{{ site.logo.path }}"
+        height="{{ site.logo_blanc.height | default: 52 }}"
+        src="{{ site.logo_blanc.path }}"
       />
       {%- else -%} {{ site.title }} {%- endif -%}
     </a>
