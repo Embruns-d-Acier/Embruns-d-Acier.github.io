@@ -13,12 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "Troupe"
       section: about
-    # - title: "Témoignages"
-      # section: clients
     - title: "Prestations"
       section: services
     - title: "Catalogue"
       section: portfolio
+    - title: "Témoignages"
+      section: testimonies
     - title: "Agenda"
       section: timeline
     - title: "Membres"
