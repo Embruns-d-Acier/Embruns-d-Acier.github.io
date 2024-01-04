@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Troupe amatrice d’escrime de spectacle
     text: Embruns d’Acier
-    button: sur instagram
+    button: sur instagram <i class="fab fa-instagram"></i>
     buttonlink: "https://www.instagram.com/embrunsdacier"
 
   services:
