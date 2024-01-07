@@ -8,6 +8,11 @@
     text-transform: none;
     @include heading-font;
   }
+  span.credits {
+    font-size: 90%;
+    text-transform: none;
+    @include heading-font;
+  }
   ul.quicklinks {
     font-size: 90%;
     line-height: 40px;
