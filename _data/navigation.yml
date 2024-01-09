@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Témoignages"
       section: testimonies
-    - title: "Agenda"
+    - title: "Nos dates"
       section: timeline
     - title: "Membres"
       section: team

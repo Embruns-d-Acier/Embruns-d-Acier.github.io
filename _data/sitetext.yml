@@ -18,55 +18,65 @@ en: &DEFAULT_EN
 
   services:
     title: "Prestations"
-    text: "Vous en voulez plus ? Contactez-nous !"
+    text: "Contactez-nous pour plus d’infos ou un devis personnalisé."
     section: services
     list:
       - title: "Catalogue de spectacles"
-        desc: "Des histoires entremêlées de combats…"
+        desc: "Nos spectacles prêts à jouer"
         icon: fas fa-scroll
-      - title: "Création sur mesure"
+      - title: "Créations sur mesure"
         desc: "Création d’un spectacle inédit pour votre évènement"
         icon: fas fa-dragon
       - title: "Déambulation"
-        desc: "Des personnages hauts en couleur qui interagissent avec le public"
+        desc: "Des personnages hauts en couleur pour arpenter votre évènement et interagir avec le public"
         icon: fas fa-shoe-prints
 
   portfolio:
     title: "Catalogue"
-    text: "Nos spectacles déjà écrits, prêt à être joués !"
+    text: ""
     section: portfolio
     closebutton: "Fermer"
 
   timeline:
-    title: "Quand nous voir jouer ?"
-    text: "Dates des prestations passées et futures"
+    title: "Nos dates"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      # - title: "Festival Sirennes"
-      #   year: "Avril 2024"
-      #   desc: "Embruns d’Acier vous propose un spectacle interactif, une **adaptation de l’œuvre de Jean-Laurent Del Socorro _Une pour toutes_**, fresque épique et tourmentée autour de la vie de Julie d’Aubigny, dite la Maupin, et de son comparse damné, Méphistophélès."
-      #   image: assets/img/timeline/1.jpg
+      # - title: "L’Ouest Hurlant"
+      #   year: "4 et 5 mai 2024"
+      #   desc: "Embruns d’Acier dévoilera lors de cette édition d’Ouest Hurlant son nouveau spectacle !"
+      #   image: assets/img/timeline/oh23.jpg
       #   alt:
-      - title: "Cité Universitaire Sévigné"
+      # - title: "Festival Sirennes"
+      #   year: "11, 12 et 14 avril 2024"
+      #   desc: "Embruns d’Acier vous propose un spectacle interactif, une adaptation de l’œuvre de Jean-Laurent Del Socorro **Une pour toutes**, fresque épique et tourmentée autour de la vie de Julie d’Aubigny, dite la Maupin, et de son comparse damné, Méphistophélès."
+      #   image:
+      #   alt:
+      # - title: "Collège de Fougères"
+      #   year: "16 février 2024"
+      #   desc: "Représentation pour les élèves de 5e du collège Thérèse Pierre dans le cinéma de Fougères."
+      #   image: assets/img/timeline/fougeres.jpg
+      #   alt:
+      - title: "Cité universitaire Sévigné"
         year: "8 juin 2023"
-        desc: "Représentation pour la Cité Universitaire Sévigné pour les remercier de mettre une salle de répétition à disposition d’Embruns d’Acier"
+        desc: "Représentation de **How I Met My Guild** devant les étudiants de la Cité universitaire."
         image: https://placehold.co/300x300?text=Cité U
         alt:
       - title: "L’Ouest Hurlant"
         year: "29 et 30 avril 2023"
-        desc: "Les guildes d'aventuriers, ces bandes de personnages pas toujours bien assortis qui arpentent des royaumes en quête de trésors cachés et de trolls à occire, ne se rencontrent pas toujours dans une taverne. Parfois, l’histoire est un peu plus compliquée… Occultiste, truand, prêtre, barde: voici quelques personnnages de la nouvelle guilde qu’Embruns d’Acier va vous présenter !"
+        desc: "Pour sa deuxième participation à L’Ouest hurlant, Embruns d’acier a dégainé épées, chopes et potions magiques, le temps de présenter au public les aventuriers plus ou moins chevronnés de son spectacle **How I Met My Guild**."
         image: assets/img/timeline/oh23.jpg
         alt:
       - title: "Mariage (prestation privée)"
-        year: "Été 2022"
+        year: "Août 2022"
         desc: "Tout commence par une querelle peu commune : chacun des mariés prétend que son amour est le plus fort. Pour se départager dans cet inepte désaccord, ils ont organisé un tournoi et choisi leurs champions. Venus de tout le royaume, ceux-ci se livrent un assaut farouche en l'honneur des tourtereaux..."
         image: assets/img/timeline/mariage.jpg
         alt: image alt text
       - title: "L’Ouest Hurlant"
         year: "30 avril - 1er mai 2022"
-        desc: "À l’occasion du festival de l’imaginaire L’Ouest hurlant, les bretteurs d’Embruns d’acier ont présenté avec l’association Celldia **La Forteresse de la Renaissance**, un « spectacle dont vous êtes le héros » : au rythme des combats, le public votait pour les prochaines péripéties des protagonistes pour tenter de leur sauver la peau… et y parvenait parfois !"
+        desc: "À l’occasion du festival de l’imaginaire L’Ouest hurlant, les bretteurs d’Embruns d’acier ont présenté avec l’association Celldia _La Forteresse de la Renaissance_, un « spectacle dont vous êtes le héros » : au rythme des combats, le public votait pour les prochaines péripéties des protagonistes pour tenter de leur sauver la peau… et y parvenait parfois !"
         image: assets/img/timeline/oh22.jpg
         alt:
     # end: "Embruns <br> d’Acier <br> naît!"
@@ -102,7 +112,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Antoine"
-        role: "<i>Éducateur FFE</i><br> Épée longuiste de coeur, il n’a jamais compris l’intérêt d’un combat sans roulade"
+        role: "<i>Éducateur FFE</i><br> Épée longuiste de cœur, il n’a jamais compris l’intérêt d’un combat sans roulade"
         image: assets/img/team/antoine.jpg
         # social:
         #   - url: https://twitter.com
@@ -121,10 +131,10 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/marie.kerg/
             icon: fab fa-instagram
       - name: "Manon"
-        role: "Elle possède quatre haches, et l’une finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
+        role: "Elle possède quatre haches, et l’une d’elles finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
         image: assets/img/team/manon.jpg
       - name: "Pierre-François"
-        role: "Entre sa rapière et sa flûte, personne n’est sûr de quelle arme est la plus mortelle"
+        role: "Entre sa rapière et sa flûte, personne ne sait vraiment quelle arme est la plus mortelle"
         image: assets/img/team/pf.jpg
       - name: "Florian"
         role: "<i>Éducateur FFE</i><br> On le croise souvent un appareil photo dans une main, une épée dans l’autre"
@@ -145,7 +155,7 @@ en: &DEFAULT_EN
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
       - name: "Damien"
-        role: "Ninja du clan de l'orange pressée, il ne passe jamais à côté d'une bonne tranche de rigolade."
+        role: "Ninja du clan de l'orange pressée, il ne passe jamais à côté d'une bonne tranche de rigolade"
         image: assets/img/team/damien.jpg
 
   contact:
