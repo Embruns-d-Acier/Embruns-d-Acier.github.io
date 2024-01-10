@@ -3,13 +3,13 @@
   <div class="container">
     {% if site.locale and site.locale != "" and site.locale != nil %}
     <div class="row align-items-center">
-      <div class="col-md-4">
+      <div class="col-md-3">
         <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
+          >&copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
         >
       </div>
       <!-- Social Media -->
-      <div class="col-md-4">
+      <div class="col-md-2">
         <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext[site.locale].footer.social %}
           <li class="list-inline-item">
@@ -22,7 +22,7 @@
           {% endfor %}
         </ul>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-7">
           <span class="credits">
               Logo : ©Benjamin Benéteau. / Photos : header, Pierre-François, Elsa, Natan ©Zénia Poidevin ; Une pour toutes, Antoine, Marie, Morgan ©Florian Strzelecki ; How I Met My Guild, Manon ©Julien Joly ; Florian ©Elsa Darrouzet-Céran ; Damien ©Céline Chapalain ; bandeau contact ©Matthieu Munoz.
           </span>

@@ -1,6 +1,6 @@
 ---
 title: Une pour toutes
-subtitle: Adaptation interactive du roman “Une pour toutes” de Jean-Laurent Del Socorro, racontant l’histoire de Julie de Maupin, duelliste du XVII<sup>e</sup> siècle
+subtitle: Adaptation interactive du roman “Une pour toutes” de Jean-Laurent Del Socorro, racontant l’histoire de Julie de Maupin, duelliste du XVII<sup>e</sup> siècle.
 image: assets/img/portfolio/upt.jpg
 alt: .
 
@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/upt.jpg
 ---
 
-"Une pour toutes" est l’adaptation théâtrale d’une œuvre jeunesse écrite par Jean-Laurent Del Socorro (École des loisirs, 2022), fable romancée de la vie de Julie de Maupin, bretteuse et chanteuse d’opéra du xviie siècle. Nous en avons fait un spectacle interactif adapté aux publics scolaires. Reprenant la trame du roman en l’adaptant à la scène théâtrale, le spectacle présente ainsi la vie de son héroïne, indépendante jeune femme arpentant les routes de France en quête de liberté et d’amour, qu’elle défendra, s’il le faut, au fil de son épée.
+"Une pour toutes" est l’adaptation théâtrale d’une œuvre jeunesse écrite par Jean-Laurent Del Socorro (École des loisirs, 2022), fable romancée de la vie de Julie de Maupin, bretteuse et chanteuse d’opéra du XVII<sup>e</sup> siècle. Nous en avons fait un spectacle interactif adapté aux publics scolaires. Reprenant la trame du roman en l’adaptant à la scène théâtrale, le spectacle présente ainsi la vie de son héroïne, indépendante jeune femme arpentant les routes de France en quête de liberté et d’amour, qu’elle défendra, s’il le faut, au fil de son épée.
 
 Dans cette quête, elle est accompagnée d’un certain Méphistophélès, diable charmeur qui empêche la Maupin de tomber dans la gueule du loup. Car en chemin, elle fait face à mille péripéties qui feront grandir sa réputation, mais à un certain prix : le lieutenant du roy est à ses trousses, et compte bien mettre au fer celle qui défie l’autorité du royaume.
 

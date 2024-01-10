@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: How I Met My Guild
-  subtitle: Les débuts mouvementés et pleins d’humour d’une guilde d’aventuriers de fantasy
+  subtitle: Les débuts mouvementés et pleins d’humour d’une guilde d’aventuriers de fantasy.
   thumbnail: assets/img/portfolio/him.jpg
   
 #what displays when the item is clicked:
 title: How I Met My Guild
-subtitle: Les débuts mouvementés et pleins d’humour d’une guilde d’aventuriers de fantasy
+subtitle: Les débuts mouvementés et pleins d’humour d’une guilde d’aventuriers de fantasy.
 image: assets/img/portfolio/him2.jpg
 alt: image alt text
 
