@@ -76,7 +76,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "L’Ouest Hurlant"
         year: "30 avril - 1er mai 2022"
-        desc: "À l’occasion du festival de l’imaginaire L’Ouest hurlant, les bretteurs d’Embruns d’acier ont présenté avec l’association Celldia _La Forteresse de la Renaissance_, un « spectacle dont vous êtes le héros » : au rythme des combats, le public votait pour les prochaines péripéties des protagonistes pour tenter de leur sauver la peau… et y parvenait parfois !"
+        desc: "À l’occasion du festival de l’imaginaire L’Ouest hurlant, les bretteurs d’Embruns d’acier ont présenté avec l’association Celldia **La Forteresse de la Renaissance**, un « spectacle dont vous êtes le héros » : au rythme des combats, le public votait pour les prochaines péripéties des protagonistes pour tenter de leur sauver la peau… et y parvenait parfois !"
         image: assets/img/timeline/oh22.jpg
         alt:
     # end: "Embruns <br> d’Acier <br> naît!"
