@@ -44,17 +44,17 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "L’Ouest Hurlant"
-        year: "4 et 5 mai 2024"
-        desc: "Embruns d’Acier dévoilera lors de cette édition d’Ouest Hurlant son nouveau spectacle !"
-        # image: assets/img/timeline/oh23.jpg
-        image: https://placehold.co/300x300?text=OH 2023
-        alt:
-      - title: "Festival Sirennes"
-        year: "11, 12 et 14 avril 2024"
-        desc: "Embruns d’Acier vous propose un spectacle interactif, une adaptation de l’œuvre de Jean-Laurent Del Socorro **Une pour toutes**, fresque épique et tourmentée autour de la vie de Julie d’Aubigny, dite la Maupin, et de son comparse damné, Méphistophélès."
-        image: https://placehold.co/300x300?text=Sirennes
-        alt:
+      # - title: "L’Ouest Hurlant"
+      #   year: "4 et 5 mai 2024"
+      #   desc: "Embruns d’Acier dévoilera lors de cette édition d’Ouest Hurlant son nouveau spectacle !"
+      #   # image: assets/img/timeline/oh23.jpg
+      #   image: https://placehold.co/300x300?text=OH 2023
+      #   alt:
+      # - title: "Festival Sirennes"
+      #   year: "11, 12 et 14 avril 2024"
+      #   desc: "Embruns d’Acier vous propose un spectacle interactif, une adaptation de l’œuvre de Jean-Laurent Del Socorro **Une pour toutes**, fresque épique et tourmentée autour de la vie de Julie d’Aubigny, dite la Maupin, et de son comparse damné, Méphistophélès."
+      #   image: https://placehold.co/300x300?text=Sirennes
+      #   alt:
       - title: "Collège de Fougères"
         year: "16 février 2024"
         desc: "Représentation pour les élèves de 5e du collège Thérèse Pierre dans le cinéma de Fougères."
