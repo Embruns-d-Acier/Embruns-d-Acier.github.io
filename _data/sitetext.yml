@@ -155,7 +155,7 @@ en: &DEFAULT_EN
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
       - name: "Damien"
-        role: "Ninja du clan de l'orange pressée, il ne passe jamais à côté d'une bonne tranche de rigolade"
+        role: "Bretteur éclatant avec ou sans paillettes, qu'il se batte à la rapière ou à l'épée longue, ce sont ses jeux de mots qui vous désarmeront les premiers"
         image: assets/img/team/damien.jpg
 
   contact:
