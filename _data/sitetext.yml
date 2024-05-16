@@ -44,6 +44,11 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Cité universitaire Sévigné"
+        year: "28 mai 2023"
+        desc: "Représentation de **Donjon Sans Dragons** devant les étudiants de la Cité universitaire."
+        image: https://placehold.co/300x300?text=Cité U
+        alt:
       - title: "L’Ouest Hurlant"
         year: "4 et 5 mai 2024"
         desc: "Embruns d’Acier dévoilera lors de cette édition d’Ouest Hurlant son nouveau spectacle !"
