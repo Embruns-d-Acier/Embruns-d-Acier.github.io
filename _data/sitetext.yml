@@ -27,8 +27,8 @@ en: &DEFAULT_EN
       - title: "Créations sur mesure"
         desc: "Création d’un spectacle inédit pour votre évènement"
         icon: fas fa-dragon
-      - title: "Déambulation"
-        desc: "Des personnages hauts en couleur pour arpenter votre évènement et interagir avec le public"
+      - title: "Et plus encore"
+        desc: "Déambulations costumées sur votre événement, médiation culturelle, séances d’initiation…"
         icon: fas fa-shoe-prints
 
   portfolio:
