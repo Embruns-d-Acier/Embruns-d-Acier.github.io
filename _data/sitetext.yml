@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "Cité universitaire Sévigné"
         year: "28 mai 2023"
         desc: "Représentation de **Donjon Sans Dragons** devant les étudiants de la Cité universitaire."
-        image: https://placehold.co/300x300?text=Cité U
+        image: assets/img/timeline/cite_u.jpg
         alt:
       - title: "L’Ouest Hurlant"
         year: "4 et 5 mai 2024"
@@ -67,7 +67,7 @@ en: &DEFAULT_EN
       - title: "Cité universitaire Sévigné"
         year: "8 juin 2023"
         desc: "Représentation de **How I Met My Guild** devant les étudiants de la Cité universitaire."
-        image: https://placehold.co/300x300?text=Cité U
+        image: assets/img/timeline/cite_u.jpg
         alt:
       - title: "L’Ouest Hurlant"
         year: "29 et 30 avril 2023"
