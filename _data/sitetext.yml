@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Cité universitaire Sévigné"
-        year: "28 mai 2023"
+        year: "28 mai 2024"
         desc: "Représentation de **Donjon Sans Dragons** devant les étudiants de la Cité universitaire."
         image: assets/img/timeline/cite_u.jpg
         alt:
