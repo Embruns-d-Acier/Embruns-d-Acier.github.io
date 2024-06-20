@@ -44,6 +44,16 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Château de Combourg"
+        year: "27 octobre 2024"
+        desc: "À l’occasion d’Halloween, Embruns d’Acier présentera des saynètes thématiques et animera des sessions de médiations culturelles et d’initiation à l’escrime de spectacle dans le cadre magnifique du château de Combourg."
+        image: assets/img/timeline/combourg.jpg
+        alt:
+      - title: "Centre de loisirs de Romillé"
+        year: "29 juillet 2024"
+        desc: "Représentation de **How I Met My Guild** et initiation à l’escrime de spectacle au centre de loisirs de la ville de Romillé."
+        image: assets/img/timeline/romille.jpg
+        alt:
       - title: "Cité universitaire Sévigné"
         year: "28 mai 2024"
         desc: "Représentation de **Donjon Sans Dragons** devant les étudiants de la Cité universitaire."
@@ -135,18 +145,18 @@ en: &DEFAULT_EN
         social:
           - url: https://www.instagram.com/marie.kerg/
             icon: fab fa-instagram
-      - name: "Manon"
-        role: "Elle possède quatre haches, et l’une d’elles finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
-        image: assets/img/team/manon.jpg
-      - name: "Pierre-François"
-        role: "Entre sa rapière et sa flûte, personne ne sait vraiment quelle arme est la plus mortelle"
-        image: assets/img/team/pf.jpg
       - name: "Florian"
         role: "<i>Éducateur FFE</i><br> On le croise souvent un appareil photo dans une main, une épée dans l’autre"
         image: assets/img/team/flo.jpg
         social:
           - url: https://www.instagram.com/florian.strzelecki/
             icon: fab fa-instagram
+      - name: "Manon"
+        role: "Elle possède quatre haches, et l’une d’elles finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
+        image: assets/img/team/manon.jpg
+      - name: "Pierre-François"
+        role: "Entre sa rapière et sa flûte, personne ne sait vraiment quelle arme est la plus mortelle"
+        image: assets/img/team/pf.jpg
       - name: "Elsa"
         role: "Ne vous fiez pas à son air tranquille, ou vous serez surpris par son estoc à l'épée médiévale…"
         image: assets/img/team/dza.jpg
