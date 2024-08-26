@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Donjon sans Dragon
   subtitle: Un récit de fantasy aux accents satiriques inspiré du plus vieux des jeux de rôle.
-  thumbnail: assets/img/portfolio/2024.jpg
+  thumbnail: assets/img/portfolio/dnd.jpg
   
 #what displays when the item is clicked:
 title: Donjon sans Dragon
