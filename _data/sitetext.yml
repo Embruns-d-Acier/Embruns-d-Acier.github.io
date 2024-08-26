@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Catalogue"
-    text: "Les spectacles que nous proposons actuellement"
+    text: "Les spectacles que nous proposons actuellement."
     section: portfolio
     closebutton: "Fermer"
 
   archivedportfolio:
     title: "Archives"
-    text: "Nos précédents spectacles qui ne sont plus au catalogue"
+    text: "Nos précédents spectacles qui ne sont plus au catalogue."
     section: archivedportfolio
     closebutton: "Fermer"
 
