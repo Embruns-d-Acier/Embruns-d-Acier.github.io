@@ -55,13 +55,13 @@ en: &DEFAULT_EN
         image: assets/img/timeline/romille.png
         alt:
       - title: "Cité universitaire Sévigné"
-        year: "28 mai 2024"
-        desc: "Représentation de **Donjon Sans Dragons** devant les étudiants de la Cité universitaire."
+        year: "En 2023 et 2024"
+        desc: "Représentation de **How I Met My Guild** (2023) et de **Donjon Sans Dragons** (2024) devant les étudiants de la Cité universitaire."
         image: assets/img/timeline/cite_u.jpg
         alt:
       - title: "L’Ouest Hurlant"
-        year: "4 et 5 mai 2024"
-        desc: "Embruns d’Acier dévoilera lors de cette édition d’Ouest Hurlant son nouveau spectacle !"
+        year: "Éditions 2022, 2023 et 2024"
+        desc: "Embruns d’Acier présente un nouveau spectacle à chaque édition de l’Ouest Hurlant."
         image: assets/img/timeline/oh24.jpg
         alt:
       - title: "Festival Sirennes"
@@ -74,26 +74,11 @@ en: &DEFAULT_EN
         desc: "Représentation pour les élèves de 5e du collège Thérèse Pierre dans le cinéma de Fougères."
         image: assets/img/timeline/fougeres.jpg
         alt:
-      - title: "Cité universitaire Sévigné"
-        year: "8 juin 2023"
-        desc: "Représentation de **How I Met My Guild** devant les étudiants de la Cité universitaire."
-        image: assets/img/timeline/cite_u.jpg
-        alt:
-      - title: "L’Ouest Hurlant"
-        year: "29 et 30 avril 2023"
-        desc: "Pour sa deuxième participation à L’Ouest hurlant, Embruns d’acier a dégainé épées, chopes et potions magiques, le temps de présenter au public les aventuriers plus ou moins chevronnés de son spectacle **How I Met My Guild**."
-        image: assets/img/timeline/oh23.jpg
-        alt:
       - title: "Mariage (prestation privée)"
         year: "Août 2022"
         desc: "Tout commence par une querelle peu commune : chacun des mariés prétend que son amour est le plus fort. Pour se départager dans cet inepte désaccord, ils ont organisé un tournoi et choisi leurs champions. Venus de tout le royaume, ceux-ci se livrent un assaut farouche en l'honneur des tourtereaux..."
         image: assets/img/timeline/mariage.jpg
         alt: image alt text
-      - title: "L’Ouest Hurlant"
-        year: "30 avril - 1er mai 2022"
-        desc: "À l’occasion du festival de l’imaginaire L’Ouest hurlant, les bretteurs d’Embruns d’acier ont présenté avec l’association Celldia **La Forteresse de la Renaissance**, un « spectacle dont vous êtes le héros » : au rythme des combats, le public votait pour les prochaines péripéties des protagonistes pour tenter de leur sauver la peau… et y parvenait parfois !"
-        image: assets/img/timeline/oh22.jpg
-        alt:
     # end: "Embruns <br> d’Acier <br> naît!"
 
   about:
