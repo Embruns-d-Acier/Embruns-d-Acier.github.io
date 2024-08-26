@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: services
     - title: "Catalogue"
       section: portfolio
+    - title: "Spectacles archivés"
+      section: archivedportfolio
     - title: "Témoignages"
       section: testimonies
     - title: "Nos dates"

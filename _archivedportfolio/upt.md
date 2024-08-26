@@ -16,10 +16,4 @@ Dans cette quête, elle est accompagnée d’un certain Méphistophélès, diabl
 
 En votant à des moments-clés, les élèves orienteront les actions des personnages ainsi que le déroulé de l’histoire jusqu’à son dénouement final, le procès de Julie de Maupin.
 
-{:.list-inline} 
-- Idéalement joué en salle de spectacle
-- Thème : drame historique
-- Durée : 45 minutes
-- Tarif : à partir de 385 €
-
-Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_upt.pdf).
+<i>Ce spectacle n’est plus proposé au catalogue.</i>

@@ -37,6 +37,12 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Fermer"
 
+  archivedportfolio:
+    title: "Spectacles archivés"
+    text: ""
+    section: archivedportfolio
+    closebutton: "Fermer"
+
   timeline:
     title: "Nos dates"
     text: ""
