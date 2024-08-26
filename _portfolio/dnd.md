@@ -24,4 +24,4 @@ Un spectacle qui s’amuse à pasticher des travers de notre société moderne s
 - Durée : 40 minutes
 - Tarif : à partir de 280 €
 
-
+Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_dnd.pdf).
