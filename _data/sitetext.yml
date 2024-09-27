@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Troupe amatrice d’escrime de spectacle
+    title: Association rennaise d’escrime de spectacle
     text: Embruns d’Acier
     button: sur instagram <i class="fab fa-instagram"></i>
     buttonlink: "https://www.instagram.com/embrunsdacier"
@@ -90,7 +90,7 @@ en: &DEFAULT_EN
   about:
     title: "Qui sommes-nous ?"
     # text: ""
-    body: "Des nobles chevaliers aux guerrières brutales brandissant de lourdes épées, des habiles bretteuses des cours royales aux mages armés de dagues et de potions, nous faisons tinter nos lames sur toutes les scènes et à travers toutes les époques... et tous les univers. Passionnés d’histoire et de cultures de l’imaginaire, nous avons à cœur de proposer des récits captivants et divertissants, à la mesure des demandes des événements et des spectateur·rices (grand public, scolaires...) – ainsi que, bien évidemment, de nos envies. <br> <br> Embruns d’Acier est une troupe amatrice d’escrime artistique, discipline chorégraphique mettant en scène des combats inspirés par l’histoire ou la fiction. Nous cherchons à faire découvrir notre passion au fil de nos spectacles, animations et autres démonstrations. Si l’escrime est au cœur de nos créations, celles-ci sont enrichies de théâtre, d’acrobaties, de combat à mains nues, ainsi que d’autres disciplines du spectacle vivant pratiquées par nos membres."
+    body: "Des nobles chevaliers aux guerrières brutales brandissant de lourdes épées, des habiles bretteuses des cours royales aux mages armés de dagues et de potions, nous faisons tinter nos lames sur toutes les scènes et à travers toutes les époques... et tous les univers. Passionnés d’histoire et de cultures de l’imaginaire, nous avons à cœur de proposer des récits captivants et divertissants, à la mesure des demandes des événements et des spectateur·rices (grand public, scolaires...) – ainsi que, bien évidemment, de nos envies. <br> <br> Embruns d’Acier est une troupe amatrice d’escrime artistique, discipline chorégraphique mettant en scène des combats inspirés par l’histoire ou la fiction. Basés à Rennes, nous cherchons à faire découvrir notre passion au fil de nos spectacles, animations et autres démonstrations. Si l’escrime est au cœur de nos créations, celles-ci sont enrichies de théâtre, d’acrobaties, de combat à mains nues, ainsi que d’autres disciplines du spectacle vivant pratiquées par nos membres."
     section: about
 
   # clients:
