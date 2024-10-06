@@ -50,11 +50,11 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      #- title: "Château de Combourg"
-      #  year: "27 octobre 2024"
-      #  desc: "À l’occasion d’Halloween, Embruns d’Acier présentera des saynètes thématiques et animera des sessions de médiations culturelles et d’initiation à l’escrime de spectacle au château de Combourg."
-      #  image: assets/img/timeline/combourg.jpg
-      #  alt:
+      - title: "Château de Combourg"
+        year: "27 octobre 2024"
+        desc: "À l’occasion d’Halloween, Embruns d’Acier présentera des saynètes thématiques et animera des sessions de médiations culturelles et d’initiation à l’escrime de spectacle au château de Combourg."
+        image: assets/img/timeline/combourg.jpg
+        alt:
       - title: "Centre de loisirs de Romillé"
         year: "29 juillet 2024"
         desc: "Représentation de **How I Met My Guild** et initiation à l’escrime de spectacle au centre de loisirs de la ville de Romillé."
