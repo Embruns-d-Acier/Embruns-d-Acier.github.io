@@ -136,12 +136,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.instagram.com/marie.kerg/
             icon: fab fa-instagram
-      - name: "Florian"
-        role: "<i>Éducateur FFE</i><br> On le croise souvent un appareil photo dans une main, une épée dans l’autre"
-        image: assets/img/team/flo.jpg
-        social:
-          - url: https://www.instagram.com/florian.strzelecki/
-            icon: fab fa-instagram
       - name: "Manon"
         role: "Elle possède quatre haches, et l’une d’elles finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
         image: assets/img/team/manon.jpg
@@ -163,9 +157,6 @@ en: &DEFAULT_EN
       - name: "Damien"
         role: "Bretteur éclatant avec ou sans paillettes, qu'il se batte à la rapière ou à l'épée longue, ce sont ses jeux de mots qui vous désarmeront les premiers"
         image: assets/img/team/damien.jpg
-      - name: "Margot"
-        role: "Camarade de bataille toujours prête à dégainer, curieuse et malicieuse, elle dira toujours oui à toutes les aventures"
-        image: assets/img/team/margot.jpg
 
   contact:
     title: "Contactez-nous"
