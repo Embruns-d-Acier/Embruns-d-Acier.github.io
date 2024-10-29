@@ -52,7 +52,7 @@ en: &DEFAULT_EN
     events:
       - title: "Château de Combourg"
         year: "27 octobre 2024"
-        desc: "À l’occasion d’Halloween, Embruns d’Acier présentera des saynètes thématiques et animera des sessions de médiations culturelles et d’initiation à l’escrime de spectacle au château de Combourg."
+        desc: "À l’occasion d’Halloween, Embruns d’Acier a présenté son spectacle « La Bibliothèque de Minuit » et a animé des sessions de médiation culturelle et d’initiation à l’escrime de spectacle au château de Combourg."
         image: assets/img/timeline/combourg.jpg
         alt:
       - title: "Centre de loisirs de Romillé"
