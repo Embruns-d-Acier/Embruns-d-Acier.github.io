@@ -23,6 +23,5 @@ Nous proposons de vous raconter celle des Petits Salés. Au fil de missions pér
 - Idéalement joué en extérieur
 - Thème : fantasy humoristique
 - Durée : 30 minutes
-- Tarif : à partir de 210 €
 
 Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_him.pdf).
