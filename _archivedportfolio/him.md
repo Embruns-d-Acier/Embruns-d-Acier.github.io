@@ -12,6 +12,7 @@ alt: image alt text
 
 ---
 
+<i><b>Ce spectacle n’est plus proposé au catalogue.</b></i>
 
 Les guildes d’aventuriers, ces bandes de personnages pas toujours bien assortis qui arpentent des royaumes en quête de trésors cachés et de trolls à occire, ne se rencontrent pas toujours dans une taverne. Parfois, l’histoire est un peu plus compliquée...
 
