@@ -24,4 +24,4 @@ Un spectacle fantastique qui entraîne les spectateurs de récit en récit dans 
 - Durée : 30 minutes
 - Tarif : à partir de 210 €
 
-Pour plus de détails, nous contacter. Dossier de diffusion disponible prochainement.
+Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_biblio.pdf).
