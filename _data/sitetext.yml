@@ -159,21 +159,21 @@ en: &DEFAULT_EN
       - name: "Natan"
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
-      - name: "Damien"
-        role: "Bretteur éclatant avec ou sans paillettes, qu'il se batte à la rapière ou à l'épée longue, ce sont ses jeux de mots qui vous désarmeront les premiers"
-        image: assets/img/team/damien.jpg
-      - name: "Mélany"
-        role: "Fée des pinceaux aux multiples talents, efficace en coulisses comme sous les projecteurs, elle vous couvrira de cicatrices sans toucher d’épée"
-        image: assets/img/team/melany.jpg
-        social:
-          - url: https://www.instagram.com/melanydosleao/
-            icon: fab fa-instagram
       - name: "Clara"
         role: "Artiste multifacette, elle saura aussi bien peindre nos décors de mille couleurs que briller sur les planches"
         image: assets/img/team/clara.jpg
         social:
           - url: https://www.instagram.com/spadefly/
             icon: fab fa-instagram
+      - name: "Mélany"
+        role: "Fée des pinceaux aux multiples talents, efficace en coulisses comme sous les projecteurs, elle vous couvrira de cicatrices sans toucher d’épée"
+        image: assets/img/team/melany.jpg
+        social:
+          - url: https://www.instagram.com/melanydosleao/
+            icon: fab fa-instagram
+      - name: "Damien"
+        role: "Bretteur éclatant avec ou sans paillettes, qu'il se batte à la rapière ou à l'épée longue, ce sont ses jeux de mots qui vous désarmeront les premiers"
+        image: assets/img/team/damien.jpg
 
   contact:
     title: "Contactez-nous"
