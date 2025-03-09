@@ -165,13 +165,13 @@ en: &DEFAULT_EN
       - name: "Mélany"
         role: "Fée des pinceaux aux multiples talents, efficace en coulisses comme sous les projecteurs, elle vous couvrira de cicatrices sans toucher d’épée"
         image: assets/img/team/melany.jpg
-        socal:
+        social:
           - url: https://www.instagram.com/melanydosleao/
             icon: fab fa-instagram
       - name: "Clara"
         role: "Artiste multifacette, elle saura aussi bien peindre nos décors de mille couleurs que briller sur les planches"
         image: assets/img/team/clara.jpg
-        socal:
+        social:
           - url: https://www.instagram.com/spadefly/
             icon: fab fa-instagram
 
