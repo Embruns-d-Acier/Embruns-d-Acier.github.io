@@ -50,6 +50,11 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Festival Sirennes"
+        year: "20 et 22 mars 2025"
+        desc: "Embruns d’Acier présentera son nouveau spectacle **Le Siège du Pilon d’Or** et proposera des sessions de médiation culturelle."
+        image: assets/img/timeline/sirennes25.jpg
+        alt:
       - title: "Château de Combourg"
         year: "27 octobre 2024"
         desc: "À l’occasion d’Halloween, Embruns d’Acier a présenté son spectacle **La Bibliothèque de Minuit** et a animé des sessions de médiation culturelle et d’initiation à l’escrime de spectacle au château de Combourg."
