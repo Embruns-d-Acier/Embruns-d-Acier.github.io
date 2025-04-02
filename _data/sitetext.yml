@@ -50,9 +50,19 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Cité universitaire Sévigné"
+        year: "14 mai 2025"
+        desc: "Représentation devant les étudiants de la Cité universitaire."
+        image: assets/img/timeline/cite_u.jpg
+        alt:
+      - title: "L’Ouest Hurlant"
+        year: "20 avril 2025"
+        desc: "Embruns d’Acier présentera son spectacle **La Bibliothèque de Minuit** lors de l’Ouest Hurlant 2025."
+        image: assets/img/timeline/oh24.jpg
+        alt:
       - title: "Festival Sirennes"
         year: "20 et 22 mars 2025"
-        desc: "Embruns d’Acier présentera son nouveau spectacle **Le Siège du Pilon d’Or** et proposera des sessions de médiation culturelle."
+        desc: "Embruns d’Acier a présenté son nouveau spectacle **Le Siège du Pilon d’Or**."
         image: assets/img/timeline/sirennes25.jpg
         alt:
       - title: "Château de Combourg"
