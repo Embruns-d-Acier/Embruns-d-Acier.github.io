@@ -55,6 +55,11 @@ en: &DEFAULT_EN
         desc: "Représentation devant les étudiants de la Cité universitaire."
         image: assets/img/timeline/cite_u.jpg
         alt:
+      - title: "Festival Imajn’ère"
+        year: "26 avril 2025"
+        desc: "Embruns d’Acier présentera son spectacle **Le Siège du Pilon d’Or** lors du festival Imajn’ère."
+        image: assets/img/timeline/imajnere.jpg
+        alt:
       - title: "L’Ouest Hurlant"
         year: "20 avril 2025"
         desc: "Embruns d’Acier présentera son spectacle **La Bibliothèque de Minuit** lors de l’Ouest Hurlant 2025."
