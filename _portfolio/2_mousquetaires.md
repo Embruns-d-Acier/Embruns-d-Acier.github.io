@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: "Prochainement : Le Siège du Pilon d’Or"
+  title: "Le Siège du Pilon d’Or"
   subtitle: "Nouvelle création 2025 : une truculente aventure de Mousquetaires"
   thumbnail: assets/img/portfolio/mousquetaires.jpg
   

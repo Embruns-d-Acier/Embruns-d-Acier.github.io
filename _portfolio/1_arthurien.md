@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: "Prochainement : Le Chevalier de Morgane"
-  subtitle: "Nouvelle création 2025 : un spectacle interactif inspiré des légendes de la Table ronde"
+  subtitle: "Nouvelle création 2026 : un spectacle interactif inspiré des légendes de la Table ronde"
   thumbnail: assets/img/portfolio/arthurien.jpg
   
 #what displays when the item is clicked:
@@ -18,7 +18,7 @@ La reine Guenièvre vous propose alors de suivre la quête des chevaliers Mordre
 Dans ce spectacle d’escrime interactif, l’objectif des spectateurs est de découvrir qui trahira les fameux chevaliers.
 Ils voteront scène après scène pour suivre l’un ou l’autre des protagonistes afin d’assister à différentes facettes du récit – jusqu’à la conclusion, où il leur faudra choisir qui accuser…
 
-_À suivre courant 2025._
+_À suivre début 2026._
 
 _Retrouvez les dernières infos sur [notre compte Instagram](https://www.instagram.com/embrunsdacier/) !_
 
