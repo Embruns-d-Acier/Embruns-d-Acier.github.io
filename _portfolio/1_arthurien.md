@@ -22,3 +22,4 @@ _À suivre début 2026._
 
 _Retrouvez les dernières infos sur [notre compte Instagram](https://www.instagram.com/embrunsdacier/) !_
 
+Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_arthurien.pdf).
