@@ -110,7 +110,7 @@ en: &DEFAULT_EN
   about:
     title: "Qui sommes-nous ?"
     # text: ""
-    body: "Des nobles chevaliers aux guerrières brutales brandissant de lourdes épées, des habiles bretteuses des cours royales aux mages armés de dagues et de potions, nous faisons tinter nos lames sur toutes les scènes et à travers toutes les époques... et tous les univers. Passionnés d’histoire et de cultures de l’imaginaire, nous avons à cœur de proposer des récits captivants et divertissants, à la mesure des demandes des événements et des spectateur·rices (grand public, scolaires...) – ainsi que, bien évidemment, de nos envies. <br> <br> Embruns d’Acier est une troupe amatrice d’escrime artistique, discipline chorégraphique mettant en scène des combats inspirés par l’histoire ou la fiction. Basés à Rennes, nous cherchons à faire découvrir notre passion au fil de nos spectacles, animations et autres démonstrations. Si l’escrime est au cœur de nos créations, celles-ci sont enrichies de théâtre, d’acrobaties, de combat à mains nues, ainsi que d’autres disciplines du spectacle vivant pratiquées par nos membres."
+    body: "Des nobles chevaliers aux guerrières brutales brandissant de lourdes épées, des habiles bretteuses des cours royales aux mages armés de dagues et de potions, nous faisons tinter nos lames sur toutes les scènes et à travers toutes les époques... et tous les univers. Passionnés d’histoire et de cultures de l’imaginaire, nous avons à cœur de proposer des récits captivants et divertissants, à la mesure des demandes des événements et des spectateur·rices (grand public, scolaires...) – ainsi que, bien évidemment, de nos envies. <br> <br> Embruns d’Acier est une troupe amatrice d’escrime artistique, discipline chorégraphique mettant en scène des combats inspirés par l’histoire ou la fiction. Basés à Rennes, nous cherchons à faire découvrir notre passion au fil de nos spectacles, animations et autres démonstrations. Si l’escrime est au cœur de nos créations, celles-ci sont enrichies de théâtre, d’acrobaties, de combat à mains nues, ainsi que d’autres disciplines du spectacle vivant pratiquées par nos membres. <br> <br> **Vous pouvez nous contacter à l’adresse mail suivante: [<u>contact@embrunsdacier.fr</u>](mailto:contact@embrunsdacier.fr)**"
     section: about
 
   # clients:
@@ -189,21 +189,6 @@ en: &DEFAULT_EN
       - name: "Damien"
         role: "Bretteur éclatant avec ou sans paillettes, qu'il se batte à la rapière ou à l'épée longue, ce sont ses jeux de mots qui vous désarmeront les premiers"
         image: assets/img/team/damien.jpg
-
-  contact:
-    title: "Contactez-nous"
-    text: ""
-    section: contact
-    name: "Nom*"
-    name-validation: "Veuillez entrer votre nom."
-    email: "Email*"
-    email-validation: "Veuillez entrer votre email."
-    phone: "Numéro de téléphone"
-    phone-validation: "Veuillez entrer votre numéro de téléphone."
-    message: "Message*"
-    message-validation: "Veuillez entrer un message."
-    subject: "Message via formulaire de contact"
-    submit: "Envoyer"
 
   footer:
     legal: "Privacy Policy"
