@@ -19,4 +19,10 @@ Fuyant les gardes du cardinal, Athos, Porthos et Aramis se barricadent avec leur
 
 Loin des récits les plus célèbres des Mousquetaires, ce spectacle s’inspire d’épisodes méconnus du roman de Dumas et remet au goût du jour des personnages oubliés. Un huis clos de cape et d’épée où ni la bagarre, ni les bons mots ne viennent à manquer !
 
+{:.list-inline} 
+- Joué aussi bien intérieur qu’en extérieur
+- Thème : récit de cape et d'épée, Les Trois Mousquetaires
+- Durée : 35 minutes
+- Tarif : à partir de 245 €
+
 Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_pilon_d_or.pdf).
