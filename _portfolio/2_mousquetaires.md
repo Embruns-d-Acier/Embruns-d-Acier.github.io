@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: "Le Siège du Pilon d’Or"
   subtitle: "Nouvelle création 2025 : une truculente aventure de Mousquetaires"
-  thumbnail: assets/img/portfolio/mousquetaires.jpg
+  thumbnail: assets/img/portfolio/mousquetaires2.jpg
   
 #what displays when the item is clicked:
 title: Le Siège du Pilon d’Or
 subtitle: Une truculente aventure de Mousquetaires
-image: assets/img/portfolio/mousquetaires.jpg
+image: assets/img/portfolio/mousquetaires1.jpg
 alt: image alt text
 
 ---
@@ -19,7 +19,4 @@ Fuyant les gardes du cardinal, Athos, Porthos et Aramis se barricadent avec leur
 
 Loin des récits les plus célèbres des Mousquetaires, ce spectacle s’inspire d’épisodes méconnus du roman de Dumas et remet au goût du jour des personnages oubliés. Un huis clos de cape et d’épée où ni la bagarre, ni les bons mots ne viennent à manquer !
 
-_Premières représentations lors du [festival Sirennes](https://festival-sirennes.com/) 2025._
-
-_Retrouvez les dernières infos sur [notre compte Instagram](https://www.instagram.com/embrunsdacier/) !_
-
+Pour plus de détails, consultez [notre dossier de diffusion](assets/pdf/dossier_diff_pilon_d_or.pdf).
