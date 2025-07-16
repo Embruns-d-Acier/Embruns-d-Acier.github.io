@@ -21,7 +21,7 @@ Loin des récits les plus célèbres des Mousquetaires, ce spectacle s’inspir
 
 {:.list-inline} 
 - Joué aussi bien intérieur qu’en extérieur
-- Thème : récit de cape et d'épée, Les Trois Mousquetaires
+- Thème : récit de cape et d'épée, _Les Trois Mousquetaires_
 - Durée : 35 minutes
 - Tarif : à partir de 245 €
 
