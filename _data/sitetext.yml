@@ -167,15 +167,15 @@ en: &DEFAULT_EN
       - name: "Pierre-François"
         role: "Entre sa rapière et sa flûte, personne ne sait vraiment quelle arme est la plus mortelle"
         image: assets/img/team/pf.jpg
-      - name: "Elsa"
-        role: "Ne vous fiez pas à son air tranquille, ou vous serez surpris par son estoc à l'épée médiévale…"
-        image: assets/img/team/dza.jpg
-        social:
-          - url: https://www.instagram.com/elsourson/
-            icon: fab fa-instagram
-      - name: "Morgan"
-        role: "Sous son laconisme et ses airs mystérieux se cache un être brûlant pour la castagne"
-        image: assets/img/team/mo.jpg
+      # - name: "Elsa"
+      #   role: "Ne vous fiez pas à son air tranquille, ou vous serez surpris par son estoc à l'épée médiévale…"
+      #   image: assets/img/team/dza.jpg
+      #   social:
+      #     - url: https://www.instagram.com/elsourson/
+      #       icon: fab fa-instagram
+      # - name: "Morgan"
+      #   role: "Sous son laconisme et ses airs mystérieux se cache un être brûlant pour la castagne"
+      #   image: assets/img/team/mo.jpg
       - name: "Natan"
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
