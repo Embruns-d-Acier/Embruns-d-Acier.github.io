@@ -173,9 +173,9 @@ en: &DEFAULT_EN
       #   social:
       #     - url: https://www.instagram.com/elsourson/
       #       icon: fab fa-instagram
-      # - name: "Morgan"
-      #   role: "Sous son laconisme et ses airs mystérieux se cache un être brûlant pour la castagne"
-      #   image: assets/img/team/mo.jpg
+      - name: "Morgan"
+        role: "Sous son laconisme et ses airs mystérieux se cache un être brûlant pour la castagne"
+        image: assets/img/team/mo.jpg
       - name: "Natan"
         role: "Mettant son talent théâtral au service de sa lame, il ne manquera pas de vous arracher une larme… de rire"
         image: assets/img/team/natan.jpg
