@@ -70,19 +70,14 @@ en: &DEFAULT_EN
         desc: "À l’occasion des Journées Européennes du Patrimoine, Embruns d’Acier a présenté une nouvelle version de **La Bibliothèque de Minuit**."
         image: assets/img/timeline/combourg.jpg
         alt:
-      - title: "Cité universitaire Sévigné"
-        year: "14 mai 2025"
-        desc: "Représentation devant les étudiants de la Cité universitaire."
-        image: assets/img/timeline/cite_u.jpg
-        alt:
       - title: "Festival Imajn’ère"
         year: "26 avril 2025"
-        desc: "Embruns d’Acier présentera son spectacle **Le Siège du Pilon d’Or** lors du festival Imajn’ère."
+        desc: "Embruns d’Acier a présenté son spectacle **Le Siège du Pilon d’Or** lors du festival Imajn’ère."
         image: assets/img/timeline/imajnere.jpg
         alt:
       - title: "L’Ouest Hurlant"
-        year: "20 avril 2025"
-        desc: "Embruns d’Acier présentera son spectacle **La Bibliothèque de Minuit** lors de l’Ouest Hurlant 2025."
+        year: "Éditions 2022, 2023, 2024 et 2025"
+        desc: "Embruns d’Acier présente un nouveau spectacle à chaque édition de l’Ouest Hurlant."
         image: assets/img/timeline/oh24.jpg
         alt:
       - title: "Festival Sirennes"
@@ -101,14 +96,9 @@ en: &DEFAULT_EN
         image: assets/img/timeline/romille.png
         alt:
       - title: "Cité universitaire Sévigné"
-        year: "En 2023 et 2024"
-        desc: "Représentation de **How I Met My Guild** (2023) et de **Donjon Sans Dragons** (2024) devant les étudiants de la Cité universitaire."
+        year: "En 2023, 2024 et 2025"
+        desc: "Représentation de **How I Met My Guild** (2023), de **Donjon Sans Dragons** (2024) et du **Pilon d’Or** (2025) devant les étudiants de la Cité universitaire."
         image: assets/img/timeline/cite_u.jpg
-        alt:
-      - title: "L’Ouest Hurlant"
-        year: "Éditions 2022, 2023 et 2024"
-        desc: "Embruns d’Acier présente un nouveau spectacle à chaque édition de l’Ouest Hurlant."
-        image: assets/img/timeline/oh24.jpg
         alt:
       - title: "Festival Sirennes"
         year: "11 avril 2024"
