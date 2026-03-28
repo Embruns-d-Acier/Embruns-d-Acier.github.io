@@ -50,15 +50,15 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Festival Fenrir"
+      - title: "Festival FENRIR"
         year: "23 et 24 mai 2026"
-        desc: "Embruns d’Acier présentera une nouvelle version de **La Bibliothèque de Minuit** dans une ambiance de récit de marins."
+        desc: "Embruns d’Acier présentera une nouvelle version de **La Bibliothèque de Minuit** dans une ambiance de récits marins et autres aventures de pirates."
         image: assets/img/timeline/fenrir.png
         alt:
       - title: "Festival Sirennes"
         year: "9 et 10 mai 2026"
         desc: "Embruns d’Acier présentera son spectacle **Le Siège du Pilon d’Or**."
-        image: assets/img/timeline/sirennes25.jpg
+        image: assets/img/timeline/sirennes26.png
         alt:
       - title: "Château de Combourg"
         year: "2 et 3 mai 2026"
