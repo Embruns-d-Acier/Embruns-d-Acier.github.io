@@ -50,9 +50,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Festival Fenrir"
+        year: "23 et 24 mai 2026"
+        desc: "Embruns d’Acier présentera une nouvelle version de **La Bibliothèque de Minuit** dans une ambiance de récit de marins."
+        image: assets/img/timeline/fenrir.png
+        alt:
+      - title: "Festival Sirennes"
+        year: "9 et 10 mai 2026"
+        desc: "Embruns d’Acier présentera son spectacle **Le Siège du Pilon d’Or**."
+        image: assets/img/timeline/sirennes25.jpg
+        alt:
+      - title: "Château de Combourg"
+        year: "2 et 3 mai 2026"
+        desc: "Embruns d’Acier présentera une suite de saynètes médiévales lors de la fête médiévale fantastique de Combourg."
+        image: assets/img/timeline/combourg.jpg
+        alt:
       - title: "Château de Combourg"
         year: "20 et 21 septembre 2025"
-        desc: "À l’occasion des Journées Européennes du Patrimoine, Embruns d’Acier présentera une nouvelle version de **La Bibliothèque de Minuit**."
+        desc: "À l’occasion des Journées Européennes du Patrimoine, Embruns d’Acier a présenté une nouvelle version de **La Bibliothèque de Minuit**."
         image: assets/img/timeline/combourg.jpg
         alt:
       - title: "Cité universitaire Sévigné"
