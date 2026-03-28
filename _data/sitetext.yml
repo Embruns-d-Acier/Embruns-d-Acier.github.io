@@ -81,8 +81,8 @@ en: &DEFAULT_EN
         image: assets/img/timeline/oh24.jpg
         alt:
       - title: "Festival Sirennes"
-        year: "20 et 22 mars 2025"
-        desc: "Embruns d’Acier a présenté son nouveau spectacle **Le Siège du Pilon d’Or**."
+        year: "En 2024 et 2025"
+        desc: "Nous avons joué notre adaptation interactive du roman **Une pour toutes** lors du festival de l'imaginaire Sirennes en 2024 et **Le Siège du Pilon d’Or** en 2025."
         image: assets/img/timeline/sirennes25.jpg
         alt:
       - title: "Château de Combourg"
@@ -99,11 +99,6 @@ en: &DEFAULT_EN
         year: "En 2023, 2024 et 2025"
         desc: "Représentation de **How I Met My Guild** (2023), de **Donjon Sans Dragons** (2024) et du **Pilon d’Or** (2025) devant les étudiants de la Cité universitaire."
         image: assets/img/timeline/cite_u.jpg
-        alt:
-      - title: "Festival Sirennes"
-        year: "11 avril 2024"
-        desc: "Nous avons joué notre adaptation interactive du roman **Une pour toutes** lors du festival de l'imaginaire Sirennes."
-        image: assets/img/timeline/sirennes.jpg
         alt:
       - title: "Collège de Fougères"
         year: "16 février 2024"
