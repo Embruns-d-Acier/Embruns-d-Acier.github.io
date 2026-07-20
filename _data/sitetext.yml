@@ -196,6 +196,9 @@ en: &DEFAULT_EN
       - name: "Emma"
         role: "Parce qu'après la moitié d'une vie sur les planches, elle en a conclu que chaque représentation méritait sa digne cascade !"
         image: assets/img/team/emma.jpg
+        social:
+          - url: https://www.instagram.com/emma_carons_/
+            icon: fab fa-instagram
 
 
 
