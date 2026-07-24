@@ -199,7 +199,9 @@ en: &DEFAULT_EN
         social:
           - url: https://www.instagram.com/emma_carons_/
             icon: fab fa-instagram
-
+      - name: "Simon"
+        role: "Après le parkour et les arts martiaux, il se lance dans le spectacle à grands coups de pied sautés, et compte bien montrer qu’il n’est pas qu’un physique !"
+        image: assets/img/team/simon.jpg
 
 
   footer:
