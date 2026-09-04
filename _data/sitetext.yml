@@ -202,6 +202,9 @@ en: &DEFAULT_EN
       - name: "Simon"
         role: "Après le parkour et les arts martiaux, il se lance dans le spectacle à grands coups de pied sautés, et compte bien montrer qu’il n’est pas qu’un physique !"
         image: assets/img/team/simon.jpg
+      - name: "Sophie"
+        role: "Amoureuse des arts et de la bagarre, du mousquet à l’arbalète et de l’épée longue à la bocle, rien ne saurait lui résister !"
+        image: assets/img/team/sophie.jpg
 
 
   footer:
