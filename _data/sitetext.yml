@@ -170,7 +170,7 @@ en: &DEFAULT_EN
         role: "Elle possède quatre haches, et l’une d’elles finira peut-être dans un crâne sans qu’elle l’ait fait exprès"
         image: assets/img/team/manon.jpg
       - name: "Pierre-François"
-        role: "Entre sa rapière et sa flûte, personne ne sait vraiment quelle arme est la plus mortelle"
+        role: "<i>Animateur FFE</i><br> Entre sa rapière et sa flûte, personne ne sait vraiment quelle arme est la plus mortelle"
         image: assets/img/team/pf.jpg
       - name: "Morgan"
         role: "Sous son laconisme et ses airs mystérieux se cache un être brûlant pour la castagne"
