@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: "[Nouvelle création 2027] Spectacle Sherlock Holmes"
-  subtitle: "Un huis clos mouvement dans un musée, mené par les fameux Holmes et Watson"
+  subtitle: "Un huis clos mouvementé dans un musée, mené par les fameux Holmes et Watson"
   thumbnail: assets/img/portfolio/sherlock.jpg
   
 #what displays when the item is clicked:
 title: "[Nouvelle création 2027] Spectacle Sherlock Holmes"
-subtitle: "Un huis clos mouvement dans un musée, mené par les fameux Holmes et Watson"
+subtitle: "Un huis clos mouvementé dans un musée, mené par les fameux Holmes et Watson"
 image: assets/img/portfolio/sherlock.jpg
 alt: image alt text
 
